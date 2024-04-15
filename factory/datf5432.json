@@ -2,7 +2,7 @@
 	"name": "datf5432",
 	"properties": {
 		"globalConfigurations": {
-			"factoryStagingFolderPath": "",
+			"factoryStagingFolderPath": "user/synapse/top5-products",
 			"factoryStagingLSReferenceName": "linkedService1",
 			"factoryStagingLSType": "LinkedServiceReference"
 		}
