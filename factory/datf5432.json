@@ -1,5 +1,10 @@
 {
 	"name": "datf5432",
+	"properties": {
+		"globalConfigurations": {
+			"factoryStagingFolderPath": "/"
+		}
+	},
 	"location": "eastus",
 	"identity": {
 		"type": "SystemAssigned",
