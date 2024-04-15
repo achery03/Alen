@@ -2,7 +2,7 @@
 	"name": "datf5432",
 	"properties": {
 		"globalConfigurations": {
-			"factoryStagingFolderPath": "/"
+			"factoryStagingFolderPath": "/\\"
 		}
 	},
 	"location": "eastus",
