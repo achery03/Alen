@@ -2,7 +2,9 @@
 	"name": "datf5432",
 	"properties": {
 		"globalConfigurations": {
-			"factoryStagingFolderPath": ""
+			"factoryStagingFolderPath": "",
+			"factoryStagingLSReferenceName": "linkedService1",
+			"factoryStagingLSType": "LinkedServiceReference"
 		}
 	},
 	"location": "eastus",
